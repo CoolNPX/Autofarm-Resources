@@ -13,8 +13,8 @@
 ## How to use in-game
 1. Teleport to **Circuit Race** with the vehicle you chose.
 2. Go with your vehicle in this exact spot:
-![back view](res\parking_back.png)
 ![front view](res\parking_front.png)
+![back view](res\parking_back.png)
 3. Press the key you set as Tinytask's playback shortcut.\
 The autofarm will now work until you stop it, pressing the playback shortcut once again.
 
